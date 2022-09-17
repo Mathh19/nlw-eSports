@@ -1,6 +1,6 @@
 # Sobre
-Esse é um projeto realizado no evento da rocketseat nlw eSports
-O projeto tem a como tecnologia usada React, TypeScript, Nodejs e React Native
+Esse é um projeto realizado no evento da rocketseat nlw eSports.
+O projeto tem as tecnologias usadas React, TypeScript, Nodejs e React Native
 
 ## Projeto - web
 No projeto web foi usado React + TypeScript + Tailwindcss
